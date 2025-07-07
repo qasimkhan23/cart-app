@@ -3,7 +3,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/qasimkhan23/cart-app.git>
+git clone https://github.com/qasimkhan23/cart-app.git
 cd cart-app
 npm install
 npm run dev
